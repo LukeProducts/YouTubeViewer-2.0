@@ -9,7 +9,7 @@ def banner():
        \ \/ / | |/ _ \ \ /\ / / _ \ '__|   / / | | | |
         \  /  | |  __/\ V  V /  __/ |     / /_ | |_| |
          \/   |_|\___| \_/\_/ \___|_|    |____(_)___/ 
-                                                                                                                                     
+               © Copyright by LukeProducts                                                                                                      
     """
 def instruction():
     return """Hey there! This is the advanced viewer bot working with proxys.
