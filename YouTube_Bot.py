@@ -36,6 +36,7 @@ def traffic(url, proxylist, min_watchtime, max_watchtime, views_per_thread, mute
         for session in range(views_per_thread):
             time.sleep(random.randint(min_watchtime, max_watchtime))
             driver.refresh()
+            driver.find_element_by_xpath('//*[@id="movie_player"]/div[27]/div[2]/div[1]/button').click()
         driver.quit()
         return True
 def thread_start_traffic(url, proxylist, min_watchtime, max_watchtime, views_per_thread, mute, threads):
