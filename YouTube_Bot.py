@@ -103,5 +103,4 @@ while True:
         print("No valid amount of proxies!")
         break
     thread_start_traffic(URL, socks4proxylist[0:proxy_usage], min_watchtime, max_watchtime, views_per_thread, mute_autio, threads)
-    print(f"optimal view amount of {threads * views_per_thread} is getting generated!")
     break
