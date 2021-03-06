@@ -1,5 +1,5 @@
 from selenium import webdriver
-import random, time, threading, colorama, os, requests, sys
+import random, time, threading, colorama, os, requests
 from colorama import Fore
 from pathlib import Path
 colorama.init()
