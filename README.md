@@ -11,6 +11,7 @@ You are able to decide wether you want to unse Chrome or Firefox, both is provid
 Then you just have to run the program itself and enjoy.
 
 Also visit my profile here:
+
 [![Build Status](https://avatars.githubusercontent.com/u/73026669?s=100&u=ff813a859606a1f4799382f22029ff30a9818305)](https://github.com/LukeProducts)
 
 © Copyright by LukeProducts
