@@ -6,5 +6,12 @@ To install the librarys, run the command 'pip install -r requirements.txt' and P
 You are able to decide wether you want to unse Chrome or Firefox, both is provided by this program.
 
 Then you just have to run the program itself and enjoy.
-
+```ruby
+require 'simplabs/highlight'
+Simplabs::Highlight.highlight(:ruby, 'class Test; end')
+```
+NICE
+```ruby
+highlight_code(language, code = nil, &block)
+```
 © Copyright by LukeProducts
