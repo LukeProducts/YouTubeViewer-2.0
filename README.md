@@ -1,7 +1,7 @@
 # Viewer-2.0
 
 Viewer 2.0 is a Python framework that uses  over 7,000 socks proxies to significantly increase the number of views of your YouTube video!
-To install the librarys, run this command: '' 
+To install the librarys, run this command: 
 ```ruby
 pip install -r requirements.txt
 ```
