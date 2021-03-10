@@ -11,6 +11,6 @@ You are able to decide wether you want to unse Chrome or Firefox, both is provid
 Then you just have to run the program itself and enjoy.
 
 
-[![Build Status](https://github.com/LukeProducts)]
+[![Build Status](https://travis-ci.org/simplabs/highlight.png)](https://travis-ci.org/simplabs/highlight)
 
 © Copyright by LukeProducts
