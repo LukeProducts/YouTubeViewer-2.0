@@ -13,7 +13,7 @@ Then you just have to run the program itself and enjoy.
 [Also visit my profile here](https://github.com/LukeProducts)
 
 
-[![![coollogo_com-24374903](https://user-images.githubusercontent.com/73026669/110617122-9c75ad00-8195-11eb-9ba5-422356072776.png)(https://github.com/LukeProducts)]
+[![Build Status][![coollogo_com-24374903](https://user-images.githubusercontent.com/73026669/110617122-9c75ad00-8195-11eb-9ba5-422356072776.png)(https://github.com/LukeProducts)]
 
 
 
